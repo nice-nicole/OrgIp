@@ -1,0 +1,1 @@
+web: ./build/install/nicole77/bin/nicole77
