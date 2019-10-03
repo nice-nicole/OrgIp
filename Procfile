@@ -1,1 +1,1 @@
-web: ./build/install/nicole77/bin/nicole77
+web: ./build/install/Org/bin/Org
